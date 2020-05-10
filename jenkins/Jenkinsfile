@@ -39,7 +39,4 @@ pipeline {
                 success {
                     archiveArtifacts 'dist/add2vals'
                 }
-            }
-        }
-    }
-}
+            }}}}
